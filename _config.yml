@@ -3,8 +3,8 @@ logo: "/images/KennyLimpic.jpg?raw=true" # your photo (or logo) here
 description: # your text below (remove <br> elements if you don't need line breaks)
   These are my capstone project portfolio
   <br><br>
-  Test 
-  <br><br>
+  In this page, I feature my capstone project that i have embarked using <strong> Excel Dashboard <p>
+  
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   <br><br>
 theme: jekyll-theme-minimal
