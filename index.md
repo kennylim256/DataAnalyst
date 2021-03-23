@@ -10,7 +10,8 @@
 [report.pdf](pdf/retail_case_study_r3.pdf)
 <p><img src="images/cp2_sql1.jpg?raw=true"/></p>
 <p><img src="images/cp2_sql2.jpg?raw=true"/></p>
-<p>Our cohort....</p>
+<p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and SQL learned. The capstone project was completed in 10 days.</em>
+</p>
 
 #### Capstone 3 - PowerBI
 [report.pdf](pdf/retailcasestudy_powerbi.pdf)
