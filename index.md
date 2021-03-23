@@ -1,19 +1,19 @@
 ## Capstone Projects
 #### Capstone 1 - Excel Dashboard
 
-[download PDF](pdf/cp1_excel_1_pdf.pdf)
+[download pdf](pdf/cp1_excel_1_pdf.pdf)
 <p><img src="/images/cp1_excel_1_5.jpg?raw=true"/></p>
 <p>Our cohort....</p>
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
 
-[download_PDF](/pdf/retail_case_study_r3.pdf)
+[download pdf](/pdf/retail_case_study_r3.pdf)
 <p><img src="images/cp2_sql_p1.jpg?raw=true"/>
 <p><img src="images/cp2_sql_p2.jpg?raw=true"/></p>
 ---
 
 #### Capstone 3 - PowerBI
-[download PDF](pdf/retailcasestudy_powerbi.pdf)
+[download pdf](pdf/retailcasestudy_powerbi.pdf)
 <p><img src="images/cp3_powerbi_p1.JPG?raw=true"/>
 <p><img src="images/cp3_powerbi_p2.jpg?raw=true"/>
 <p><img src="images/cp3_powerbi_p3.jpg?raw=true"/></p>
