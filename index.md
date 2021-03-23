@@ -6,11 +6,11 @@
 <p>Our cohort....</p>
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
-[MS SQL](/pdf/sample_presentation.pdf)
+[MS SQL](/pdf/retail_case_study_r3)
 <img src="images/cp2_sql_p1.jpg?raw=true"/>
 <img src="images/cp2_sql_p2.jpg?raw=true"/>
 ---
-[PowerBi](http://example.com/)
+[PowerBi]
 <img src="images/cp3_powerbi_p1.JPG?raw=true"/>
 <img src="images/cp3_powerbi_p2.jpg?raw=true"/>
 <img src="images/cp3_powerbi_p3.jpg?raw=true"/>
