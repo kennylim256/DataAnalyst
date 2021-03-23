@@ -4,8 +4,8 @@
 
 ### Capstone Project 1 
 
-[Excel Dashboard]</p>(/sample_page)
-[download.pdf](pdf/cp1_excel_1_pdf.pdf)
+<p>[Excel Dashboard]</p>
+<p>[download.pdf](pdf/cp1_excel_1_pdf.pdf)</p>
 <p><img src="/images/cp1_excel_1_4.jpg?raw=true"/></P>
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
