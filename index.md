@@ -2,7 +2,8 @@
 #### Capstone 1 - Excel Dashboard
 
 [download pdf](pdf/cp1_excel_1_pdf.pdf)
-<p><img src="/images/cp1_excel_1_5.jpg?raw=true"/></p>
+<p><img src="/images/cp1_excel_8_p1.jpg?raw=true"/>
+<p><img src="/images/cp1_excel_8_p2.jpg?raw=true"/></p>
 <p>Our cohort....</p>
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
