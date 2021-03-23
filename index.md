@@ -4,7 +4,7 @@
 
 ### Capstone Project 1 
 
-[Excel Dashboard](/sample_page)
+[Excel Dashboard]</p>(/sample_page)
 [download.pdf](pdf/cp1_excel_1_pdf.pdf)
 <p><img src="/images/cp1_excel_1_4.jpg?raw=true"/></P>
 ---
