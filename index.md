@@ -6,7 +6,7 @@
 
 [Tourism Statistics on International Visitor Arrival (IVA)](/sample_page)
 <img src="/images/cp1_excel_p1.jpg?raw=true"/>
-<img src="/images/cp1_excel_p1_1.jpg.jpg?raw=true"/>
+<img src="/images/cp1_excel_p1_1.jpg?raw=true"/>
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
