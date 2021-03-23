@@ -1,9 +1,7 @@
-## Portfolio
-
----
+## Capstone Projects
 
 ### Capstone Project 1 
-####Excel Dashboard</p>
+####Excel Dashboard
 [Download pdf](pdf/cp1_excel_1_pdf.pdf)
 <img src="/images/cp1_excel_1_4.jpg?raw=true"/>
 ---
