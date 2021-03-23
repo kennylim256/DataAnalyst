@@ -4,8 +4,8 @@
 
 ### Capstone Project 1 
 
-<p>[Excel Dashboard]</p>
-<p><img src="/images/cp1_excel_1_4.jpg?raw=true"/></P>
+<p>Excel Dashboard</p>
+<img src="/images/cp1_excel_1_4.jpg?raw=true"/></P>
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/cp2_sql_p1.jpg?raw=true"/>
