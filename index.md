@@ -18,7 +18,7 @@
 <p><img src="images/cp3_powerbi_p2.jpg?raw=true"/></p>
 <p><img src="images/cp3_powerbi_p3.jpg?raw=true"/></p>
 
-
+---
 ### Category Name 2
 
 - [Project 1 Title](http://example.com/)
