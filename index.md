@@ -10,8 +10,8 @@ Excel Dashboard
 
 MS SQL Server
 [download_PDF](/pdf/retail_case_study_r3.pdf)
-<img src="images/cp2_sql_p1.jpg?raw=true"/>
-<img src="images/cp2_sql_p2.jpg?raw=true"/>
+<p><img src="images/cp2_sql_p1.jpg?raw=true"/>
+<p><img src="images/cp2_sql_p2.jpg?raw=true"/></p>
 ---
 
 #### Capstone 3 - PowerBI
