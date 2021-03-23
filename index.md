@@ -1,10 +1,11 @@
 ## Projects
 
-#### Capstone 1 - Excel Dashboard
+#### Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 [report.pdf](pdf/cp1_excel_1_pdf.pdf)
 <p><img src="/images/cp1_excel1.jpg?raw=true"/></p>
 <p><img src="/images/cp1_excel2.jpg?raw=true"/></p>
-<p>Our cohort....</p>
+<p>In this course, it build up our Excel knowledge to be more familiar with how Excel can be used for Data Analytics.
+<p> The main aim of this capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel.</p>
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
 [report.pdf](pdf/retail_case_study_r3.pdf)
