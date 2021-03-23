@@ -5,7 +5,7 @@
 ### Capstone Project 1 
 
 [Excel Dashboard](/sample_page)
-<img src="/images/cp1_excel_1.JPG?raw=true"/>
+<p><img src="/images/cp1_excel_1.JPG?raw=true"/></P>
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/cp2_sql_p1.jpg?raw=true"/>
