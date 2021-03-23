@@ -4,8 +4,8 @@
 [report.pdf](pdf/cp1_excel_1_pdf.pdf)
 <p><img src="/images/cp1_excel1.jpg?raw=true"/></p>
 <p><img src="/images/cp1_excel2.jpg?raw=true"/></p>
-<p>In this course, it build up our Excel knowledge to be more familiar with how Excel can be used for Data Analytics.
-The main aim of this capstone project is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel.</p>
+<p>In this capstone project, it build up our Excel knowledge to be more familiar with how Excel can be used for Data Analytics.
+The main aim is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel.</p>
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
 [report.pdf](pdf/retail_case_study_r3.pdf)
