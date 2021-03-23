@@ -16,7 +16,7 @@ MS SQL Server
 
 #### Capstone 3 - PowerBI
 PowerBi
-[download PDF](pdf/retailcasestudy_powerbi.pdf)</p>
+[download PDF](pdf/retailcasestudy_powerbi.pdf)
 <img src="images/cp3_powerbi_p1.JPG?raw=true"/>
 <img src="images/cp3_powerbi_p2.jpg?raw=true"/>
 <img src="images/cp3_powerbi_p3.jpg?raw=true"/>
