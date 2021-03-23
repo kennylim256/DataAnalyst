@@ -1,7 +1,7 @@
 ## Projects
 
 #### Capstone 1 - Excel Dashboard
-[download pdf](pdf/cp1_excel_1_pdf.pdf)
+[Report pdf](pdf/cp1_excel_1_pdf.pdf)
 <p><img src="/images/cp1_excel1.jpg?raw=true"/></p>
 <p><img src="/images/cp1_excel2.jpg?raw=true"/></p>
 <p>Our cohort....</p>
