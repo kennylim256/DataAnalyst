@@ -4,16 +4,16 @@
 
 ### Capstone Project 1 
 
-[Tourism Statistics on International Visitor Arrival (IVA)](/sample_page)
-<img src="/images/cp1_excel_p1_1.jpg?raw=true"/>
+[Excel Dashboard](/sample_page)
+<img src="/images/cp1_excel_1.JPG?raw=true"/>
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/cp2_sql_p1.jpg?raw=true"/>
-
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[PowerBi](http://example.com/)
+<img src="images/cp3_powerbi_p1.jpg?raw=true"/>
+<img src="images/cp3_powerbi_p2.jpg?raw=true"/>
+<img src="images/cp3_powerbi_p3.jpg?raw=true"/>
 ---
 
 ### Category Name 2
