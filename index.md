@@ -3,8 +3,7 @@
 ---
 
 ### Capstone Project 1 
-
-<p>Excel Dashboard</p>
+####Excel Dashboard</p>
 [Download pdf](pdf/cp1_excel_1_pdf.pdf)
 <img src="/images/cp1_excel_1_4.jpg?raw=true"/>
 ---
