@@ -2,6 +2,7 @@
 
 #### Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 [report.pdf](pdf/cp1_excel_1_pdf.pdf)
+<br>
 <img src="/images/cp1_excel1.jpg?raw=true"/>
 <img src="/images/cp1_excel2.jpg?raw=true"/>
 <p><em>In this capstone project, it build up our Excel knowledge to be more familiar with how Excel can be used for Data Analytics. The main aim is to exhibit the five stages of the data lifecycle through the use of the tool: MS Excel.</em></p>
