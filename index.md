@@ -3,7 +3,7 @@
 
 Excel Dashboard
 [download PDF](pdf/cp1_excel_1_pdf.pdf)
-<img src="/images/cp1_excel_1_5.jpg?raw=true"/>
+<p><img src="/images/cp1_excel_1_5.jpg?raw=true"/></p>
 <p>Our cohort....</p>
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
