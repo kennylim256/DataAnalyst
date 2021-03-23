@@ -5,10 +5,11 @@
 ### Capstone Project 1 
 
 [Excel Dashboard](/sample_page)
-<p><img src="/images/cp1_excel_1.JPG?raw=true"/></P>
+<p><img src="/images/cp1_excel_1 (1).jpg?raw=true"/></P>
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/cp2_sql_p1.jpg?raw=true"/>
+<img src="images/cp2_sql_p2.jpg?raw=true"/>
 ---
 [PowerBi](http://example.com/)
 <img src="images/cp3_powerbi_p1.JPG?raw=true"/>
