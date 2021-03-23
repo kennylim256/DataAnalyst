@@ -10,7 +10,7 @@
 [download pdf](/pdf/retail_case_study_r3.pdf)
 <p><img src="images/cp2_sql_p1.jpg?raw=true"/>
 <p><img src="images/cp2_sql_p2.jpg?raw=true"/></p>
----
+
 
 #### Capstone 3 - PowerBI
 [download pdf](pdf/retailcasestudy_powerbi.pdf)
