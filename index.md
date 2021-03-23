@@ -26,6 +26,6 @@
 <p><img src="images/cp4_python3.jpg?raw=true"/></p>
 <p>Our cohort....</p>
 
----
+
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
