@@ -1,4 +1,4 @@
-## Capstone Projects
+## Projects
 #### Capstone 1 - Excel Dashboard
 
 [download pdf](pdf/cp1_excel_1_pdf.pdf)
