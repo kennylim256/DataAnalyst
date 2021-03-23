@@ -1,10 +1,10 @@
 ## Capstone Projects
-
-### Capstone 1 - Excel Dashboard
+#### Capstone 1 - Excel Dashboard
 
 [download pdf](pdf/cp1_excel_1_pdf.pdf)
 <p><img src="/images/cp1_excel_1.jpg?raw=true"/></p>
 <p>Our cohort....</p>
+
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/cp2_sql_p1.jpg?raw=true"/>
