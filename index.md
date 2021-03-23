@@ -6,7 +6,7 @@
 
 [Excel Dashboard](/sample_page)
 [download.pdf](pdf/cp1_excel_1_pdf.pdf)
-<p><img src="/images/cp1_excel_1_1.jpg?raw=true"/></P>
+<p><img src="/images/cp1_excel_1_4.jpg?raw=true"/></P>
 ---
 [MS SQL](/pdf/sample_presentation.pdf)
 <img src="images/cp2_sql_p1.jpg?raw=true"/>
