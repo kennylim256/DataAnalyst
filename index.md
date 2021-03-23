@@ -6,7 +6,7 @@
 <p>Our cohort....</p>
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
-[MS SQL](/pdf/retail_case_study_r3)
+[MS SQL](/pdf/retail_case_study_r3.pdf)
 <img src="images/cp2_sql_p1.jpg?raw=true"/>
 <img src="images/cp2_sql_p2.jpg?raw=true"/>
 ---
