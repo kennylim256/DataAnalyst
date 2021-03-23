@@ -16,7 +16,7 @@
 [download pdf](pdf/retailcasestudy_powerbi.pdf)
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/>
 <p><img src="images/cp3_powerbi2.JPG?raw=true"/>
-<p><img src="images/cp3_powerbi3.JPG?raw=true"/></p>
+<p><img src="images/cp3_powerbi3.JPG?raw=true"/>
 <p>Our cohort....</p>
 
 #### Capstone 4 - Build A Machine Learning Model using Python
