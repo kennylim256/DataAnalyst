@@ -16,11 +16,11 @@
      <p><img src="images/cp2_sql2.jpg?raw=true"/></p> -->
 <p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em>
 </p>
-
+<br>
 #### Capstone 3 - PowerBI
 <!-- <a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">report.pdf</a> -->
 <!-- [report.pdf](pdf/retailcasestudy_powerbi.pdf) -->
-<p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
+<img src="images/cp3_powerbi1.JPG?raw=true"/>
 <a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">report.pdf</a>
 <!-- <p><img src="images/cp3_powerbi2.JPG?raw=true"/></p> -->
 <!-- <p><img src="images/cp3_powerbi3.jpg?raw=true"/></p> -->
