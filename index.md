@@ -18,12 +18,12 @@
 </p>
 
 #### Capstone 3 - PowerBI
-<a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">report.pdf</a>
+<!-- <a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">report.pdf</a> -->
 <!-- [report.pdf](pdf/retailcasestudy_powerbi.pdf) -->
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
 <a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">report.pdf</a>
-<!-- <p><img src="images/cp3_powerbi2.JPG?raw=true"/></p>
-<p><img src="images/cp3_powerbi3.jpg?raw=true"/></p> -->
+<!-- <p><img src="images/cp3_powerbi2.JPG?raw=true"/></p> -->
+<!-- <p><img src="images/cp3_powerbi3.jpg?raw=true"/></p> -->
 
 <p>Our cohort....</p>
 
