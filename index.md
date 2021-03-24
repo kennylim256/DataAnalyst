@@ -8,7 +8,7 @@
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
 
-<iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21353&amp;authkey=AJ8FxzW9ay2kVHY&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21353&amp;authkey=AJ8FxzW9ay2kVHY&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="300px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 [report.pdf](pdf/retail_case_study_r3.pdf)
 <p><img src="images/cp2_sql1.jpg?raw=true"/></p>
