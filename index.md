@@ -21,6 +21,9 @@
 <p>Our cohort....</p>
 
 #### Capstone 4 - Build A Machine Learning Model using Python
+
+<iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21350&amp;authkey=AOMdrCjQQxD3e0c&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="221px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
 [report.pdf](pdf/used_car_price_prediction.pdf)
 <p><img src="images/cp4_python1.jpg?raw=true"/></p>
 <p><img src="images/cp4_python2.jpg?raw=true"/></p>
