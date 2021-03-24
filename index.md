@@ -21,13 +21,11 @@ Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 <br>
 #### Capstone 4 - Build A Machine Learning Model using Python (....construction in progress...)
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21350&amp;authkey=AOMdrCjQQxD3e0c&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
-<a href="pdf/used_car_price_prediction.pdf" target="_blank">download PPT</a>
-<br>
-<a href="pdf/predict_audi_car_price_analysis.pdf" target="_blank">view CODE</a>
+<p style="font-size:8px"><a href="pdf/used_car_price_prediction.pdf" target="_blank">download PPT</a>, / <p style="font-size:8px"><a href="pdf/predict_audi_car_price_analysis.pdf" target="_blank">view CODE</a>
 
 <p>Our cohort....</p>
 
-<p style="font-size:10px"><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint</em></a>
+<p style="font-size:10px"><em>Technologies and Applications used:</em> Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint</a>
 <p style="font-size:10px"><em>Data Source : <a href=https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes" target="_blank"></em>Kaggle</a>
 
 
