@@ -29,7 +29,7 @@ Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 
 
 <!-- [report.pdf](pdf/used_car_price_prediction.pdf) -->
-<iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21350&amp;authkey=AOMdrCjQQxD3e0c&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="400px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+<iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21350&amp;authkey=AOMdrCjQQxD3e0c&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <a href="pdf/used_car_price_prediction.pdf" target="_blank">report.pdf</a>
 
 <!-- <p><img src="images/cp4_python1.jpg?raw=true"/></p>
