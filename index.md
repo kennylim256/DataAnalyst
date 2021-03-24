@@ -16,10 +16,8 @@
 <br>
 
 #### Capstone 3 - PowerBI (....under construction in progress...)
-
-<p style="font-size:8px"><a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">view full report</a></p>
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
-
+<p style="font-size:8px"><a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">view full report</a></p>
 <p>Our cohort....</p>
 <br>
 
