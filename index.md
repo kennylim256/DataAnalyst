@@ -27,7 +27,7 @@ Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 
 <p>Our cohort....</p>
 
-<p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS Powerpoint</em></p>
+<p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.8, MS Powerpoint</em>
 <em>Data Source : <a href=https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes" target="_blank">Kaggle</a>
 
 
