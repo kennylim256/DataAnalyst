@@ -28,7 +28,7 @@ Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 <p>Our cohort....</p>
 
 <p><em>Technologies and Applications used: Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint</em>
-<em>Data Source : <a href=https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes" target="_blank"></em>Kaggle</a></p>
+<p><em>Data Source : <a href=https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes" target="_blank"></em>Kaggle</a></p>
 
 
 <p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
