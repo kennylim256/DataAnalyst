@@ -1,6 +1,6 @@
 ## Projects
 
-#### Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
+##### Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 [report.pdf](pdf/cp1_excel_1_pdf.pdf)
 <img src="images/cp1_excel1.jpg?raw=true"/>
 
