@@ -14,12 +14,12 @@ Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 
 <p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
 <br>
-#### Capstone 3 - PowerBI
+#### Capstone 3 - PowerBI (....construction in progress...)
 <img src="images/cp3_powerbi1.JPG?raw=true"/>
 <a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">view report.pdf</a>
 <p>Our cohort....</p>
 <br>
-#### Capstone 4 - Build A Machine Learning Model using Python
+#### Capstone 4 - Build A Machine Learning Model using Python (....construction in progress...)
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21350&amp;authkey=AOMdrCjQQxD3e0c&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <a href="pdf/used_car_price_prediction.pdf" target="_blank">view report.pdf</a>
 
