@@ -30,7 +30,7 @@
 
 <p>Our cohort....</p>
 
-<p style="font-size:10px"><em>Technologies and Applications used:</em> Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint</p>
+<p style="font-size:10px"><em>Technologies and Applications used : </em> Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint</p>
 <p style="font-size:10px"><em>Data Source : </em> <a href= "https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes" target="_blank"> Kaggle</a></p>
 
 
