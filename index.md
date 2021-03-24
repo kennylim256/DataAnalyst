@@ -3,7 +3,7 @@
 Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 
 <img src="images/cp1_excel1r1.jpg?raw=true"/>
-<a href="pdf/cp1_excel_1_pdf.pdf" target="_blank">download PDF</a>
+<p style="font-size:8px"><a href="pdf/cp1_excel_1_pdf.pdf" target="_blank">view full report</a>
 
 <p><em>In this capstone project, it build up my Excel knowledge to be more familiar with how Excel can be used for Data Analytics, it also helps me to exhibit the stages of the data lifecycle through the use of the tool: MS Excel.</em></p>
 <br>
@@ -16,7 +16,7 @@ Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 <br>
 #### Capstone 3 - PowerBI (....construction in progress...)
 <img src="images/cp3_powerbi1.JPG?raw=true"/>
-<a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">download PDF</a>
+<p style="font-size:8px"><a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">view full report</a>
 <p>Our cohort....</p>
 <br>
 #### Capstone 4 - Build A Machine Learning Model using Python (....construction in progress...)
