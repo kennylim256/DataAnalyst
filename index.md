@@ -16,7 +16,7 @@
 
 <p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
 <br>
-<em><p style="font-size:10px">Technologies and Applications used: MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint<em></p>
+<em><p style="font-size:10px">Technologies and Applications used: MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint</em></p>
 
 #### Capstone 3 - PowerBI (....under construction in progress...)
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
