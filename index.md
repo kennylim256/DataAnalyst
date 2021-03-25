@@ -21,6 +21,12 @@
 <p>Our cohort....</p>
 <br>
 
+#### Hackathon Project - PowerBI (....under construction in progress...)
+<p><img src="images/housing_loan_repayment_case_study_1.pdf?raw=true"/></p>
+<p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
+<p>Our cohort....</p>
+<br>
+
 #### Capstone 4 - Build A Machine Learning Model using Python (....under construction in progress...)
 
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21350&amp;authkey=AOMdrCjQQxD3e0c&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
@@ -33,5 +39,6 @@
 <p style="font-size:10.5px"><em>Technologies and Applications used : </em>  Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint
 <em>Data Source : </em> <a href= "https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes" target="_blank"> Kaggle</a></p>
 <br>
+
 <p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
