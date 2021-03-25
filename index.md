@@ -5,7 +5,7 @@
 <p><img src="images/cp1_excel1r1.jpg?raw=true"/></p>
 <p style="font-size:8px"><a href="pdf/cp1_excel_1_pdf.pdf" target="_blank">view full report</a></p>
 <p>In this capstone project, it build up my Excel knowledge to be more familiar with how Excel can be used for Data Analytics, it also helps me to exhibit the stages of the data lifecycle through the use of the tool: MS Excel.</p>
-<p style="font-size:9px"><em>Technologies and Applications used : MS Excel 365, Power Query | Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p>
+<p style="font-size:9px"><em>Technologies and Applications used : MS Excel 365, Power Query  |  Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p>
 <br>
 
 #### Capstone 2 - Relational Database and MS Excel Dashboard (SQL and MS Excel)
@@ -17,7 +17,7 @@
 
 <p>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and was completed in 10 days.</p>
 
-<p style="font-size:9px"><em>Technologies and Applications used: MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint</em></p>
+<p style="font-size:9px"><em>Technologies and Applications used : MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint   |   Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p></em></p>
 <br>
 
 #### Capstone 3 - PowerBI Interactive Dashboard
