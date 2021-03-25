@@ -18,11 +18,14 @@
 
 <p style="font-size:10px"><em>Technologies and Applications used: MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint</em></p>
 <br>
-#### Capstone 3 - Analysing and Visualizing Data with PowerBI
+
+#### Capstone 3 - PowerBI Interactive Dashboard
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
 <p style="font-size:8px"><a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">view full report</a></p>
 <p>The Capstone Project enable me to apply and integrate what I have learnt and giving me an opportunity to delve in greater depth, into one or more of the topics covered in the ‘Analysing and Visualizing Data with PowerBI’ course. The capstone project was completed within 10 days.</p>
 <br>
+<p style="font-size:10px"><em>Technologies and Applications used: PowerBI Desktop</em></p>
+<p style="font-size:10px"><em><a href= "Data source: https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p>
 
 #### Hackathon Project - PowerBI (....under construction in progress.....)
 <p><img src="images/housing_loan_repayment_case_study_1.jpg?raw=true"/></p>
