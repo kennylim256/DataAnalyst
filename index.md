@@ -2,7 +2,7 @@
 
 #### Capstone 1 - Creating Interactive Dashboards and Data Storytelling with Excel
 
-<p><img src="images/cp1_excel1r1.jpg?raw=true"/></p>
+<img src="images/cp1_excel1r1.jpg?raw=true"/><br>
 <p style="font-size:8px"><a href="pdf/cp1_excel_1_pdf.pdf" target="_blank">view full report</a></p>
 <p>In this capstone project, it build up my Excel knowledge to be more familiar with how Excel can be used for Data Analytics, it also helps me to exhibit the stages of the data lifecycle through the use of the tool: MS Excel.</p>
 <p style="font-size:9px"><em>Technologies and Applications used : MS Excel 365, Power Query</em><br>
