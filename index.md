@@ -33,12 +33,12 @@
 </p>
 <br>
 
-#### Hackathon Project - PowerBI (....under construction in progress.....)
+####  PowerBI Hackathon - A Goal of creating a functionaning product by end of the Day!
 <img src="images/housing_loan_repayment_case_study_1.jpg?raw=true"/><br>
 <p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
-<p>A random team was created where an assignment was given to be completed within the day. 
- 
-Follow are detail instructions of the case was given to all Teams -
+<p>At the hackathon, our team are tasked to produce an app for a financial institutions that helps them in making business strategies and improve decision making.
+
+Following are detail instructions of the case given to all Teams -
 Financial institutions/companies have been using analytics for quite a long time. Off late, due to the availability of computational resources and tremendous research in analytics field, it is possible to perform cutting edge data analysis resulting in making business strategies and improving decision making.
 
 Below are a few suggested perspectives:
