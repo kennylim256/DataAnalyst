@@ -23,9 +23,10 @@
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
 <p style="font-size:8px"><a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">view full report</a></p>
 <p>The Capstone Project enable me to apply and integrate what I have learnt and giving me an opportunity to delve in greater depth, into one or more of the topics covered in the ‘Analysing and Visualizing Data with PowerBI’ course. The capstone project was completed within 10 days.</p>
+
+<p style="font-size:10px"><em>Technologies and Applications used : PowerBI Desktop</em></p>
+<p style="font-size:10px"><em>Data source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em></p>
 <br>
-<p style="font-size:10px"><em>Technologies and Applications used: PowerBI Desktop</em></p>
-<p style="font-size:10px"><em><a href= "Data source: https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p>
 
 #### Hackathon Project - PowerBI (....under construction in progress.....)
 <p><img src="images/housing_loan_repayment_case_study_1.jpg?raw=true"/></p>
@@ -43,7 +44,7 @@
 
 <br>
 <p style="font-size:10px"><em>Technologies and Applications used : Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint</em></P>
-<P style="font-size:10px"><em>Data Source : <a href= "https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes" target="_blank"> Kaggle</a></em></p>
+<P style="font-size:10px"><em>Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p>
  
 <p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
