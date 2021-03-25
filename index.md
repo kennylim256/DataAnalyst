@@ -19,7 +19,7 @@
 <p>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and was completed in 10 days.</p>
 
 <p style="font-size:9px"><em>Technologies and Applications used : MS Excel 365, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint 365</em><br>
-<em>Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p></em>
+<em>Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em>
 </p>
 <br>
 
@@ -47,8 +47,9 @@
 <p>Our cohort....</p>
 
 <br>
-<p style="font-size:10px"><em>Technologies and Applications used : Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint</em></P>
-<P style="font-size:10px"><em>Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p>
+<p style="font-size:10px"><em>Technologies and Applications used : Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint 365</em><br>
+<em><P style="font-size:10px"><em>Data Source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
+ </p>
  
 <p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
