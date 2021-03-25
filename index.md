@@ -36,7 +36,19 @@
 #### Hackathon Project - PowerBI (....under construction in progress.....)
 <img src="images/housing_loan_repayment_case_study_1.jpg?raw=true"/><br>
 <p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
-<p>Our cohort....</p>
+<p>A random team was created where an assignment was given to be completed within the day. 
+ 
+Followare detail instructions of the case was given to all Teams -
+Financial institutions/companies have been using analytics for quite a long time. Off late, due to the availability of computational resources and tremendous research in analytics field, it is possible to perform cutting edge data analysis resulting in making business strategies and improving decision making.
+
+Below are a few suggested perspectives:
+
+* Purpose of loan
+* Outstanding Amount
+* State wise loan applications
+* Loan application trend
+* Loan Status Distribution
+* Data source: Financial Dataset provided</p>
 <br>
 
 #### Capstone 4 - Build A Machine Learning Model using Python (....under construction in progress...)
