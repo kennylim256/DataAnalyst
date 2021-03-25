@@ -37,17 +37,17 @@
 <img src="images/housing_loan_repayment_case_study_1.jpg?raw=true"/><br>
 <p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
 <p>At the hackathon, our team are tasked to produce an app for a financial institutions that helps them in making business strategies and improve decision making.
-<br>
+<br><br>
 Following are detail instructions of the case given to all Teams -
 Financial institutions/companies have been using analytics for quite a long time. Off late, due to the availability of computational resources and tremendous research in analytics field, it is possible to perform cutting edge data analysis resulting in making business strategies and improving decision making.
+<br><br>
+Below are a few suggested perspectives:<br>
 <br>
-Below are a few suggested perspectives:
-<br>
-* Purpose of loan
-* Outstanding Amount
-* State wise loan applications
-* Loan application trend
-* Loan Status Distribution
+* Purpose of loan<br>
+* Outstanding Amount<br>
+* State wise loan applications<br>
+* Loan application trend<br>
+* Loan Status Distribution<br>
 * Data source: Financial Dataset provided</p>
 <br>
 
