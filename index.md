@@ -49,7 +49,7 @@
 
 <br>
 <p style="font-size:10px"><em>Technologies and Applications used : Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint 365</em><br>
-<P style="font-size:10px"><em>Data Source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
+<em>Data Source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
  </p>
  
 <p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
