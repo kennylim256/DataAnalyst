@@ -7,7 +7,7 @@
 <p><em>In this capstone project, it build up my Excel knowledge to be more familiar with how Excel can be used for Data Analytics, it also helps me to exhibit the stages of the data lifecycle through the use of the tool: MS Excel.</em></p>
 <br>
 
-#### Capstone 2 - Relational Database and MS Excel Dashboard (SQL)
+#### Capstone 2 - Relational Database and MS Excel Dashboard (SQL and MS Excel)
 
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21353&amp;authkey=AJ8FxzW9ay2kVHY&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <p style="font-size:8px"><a href="pdf/retail_case_study_r3.pdf" target="_blank">download PDF</a></p>
@@ -16,6 +16,7 @@
 
 <p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
 <br>
+<p style="font-size:10px">Technologies and Applications used: MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint
 
 #### Capstone 3 - PowerBI (....under construction in progress...)
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
