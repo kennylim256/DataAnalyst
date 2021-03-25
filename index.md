@@ -38,7 +38,7 @@
 <p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
 <p>A random team was created where an assignment was given to be completed within the day. 
  
-Followare detail instructions of the case was given to all Teams -
+Follow are detail instructions of the case was given to all Teams -
 Financial institutions/companies have been using analytics for quite a long time. Off late, due to the availability of computational resources and tremendous research in analytics field, it is possible to perform cutting edge data analysis resulting in making business strategies and improving decision making.
 
 Below are a few suggested perspectives:
