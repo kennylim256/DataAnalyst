@@ -33,7 +33,7 @@
 </p>
 <br>
 
-####  PowerBI Hackathon - A Goal of creating a functionaning product by end of the Day!
+####  PowerBI Hackathon - A Goal of creating a functioning product by end of the Day!
 <img src="images/housing_loan_repayment_case_study_1.jpg?raw=true"/><br>
 <p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
 <p>At the hackathon, our team are tasked to produce an app for a financial institutions that helps them in making business strategies and improve decision making.
