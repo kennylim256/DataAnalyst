@@ -12,9 +12,9 @@
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21353&amp;authkey=AJ8FxzW9ay2kVHY&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <p style="font-size:8px"><a href="pdf/retail_case_study_r3.pdf" target="_blank">download PDF</a></p>
 
-<p><em>SQL is an incredibly important and valuable skill that i have learned. Today Business is Digital, and Digital means data; data means databases, and to access those databases, I need SQL skillset. As an Data Analyst, using data to make informed decisions will be of part our job description, keeping up with the trend and continue learning how to use SQL to analyze data is the quickest way to level up my career going forward.<em>
+<p><em>SQL is an incredibly important and valuable skill that i have learned. Today Business is Digital, and Digital means data; data means databases, and to access those databases, I need SQL skillset. As an Data Analyst, using data to make informed decisions will be of part our job description, keeping up with the trend and continue learning how to use SQL to analyze data is the quickest way to level up my career going forward.<p><em>
 <br>
-<p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em>
+<p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
 <br>
 
 #### Capstone 3 - PowerBI (....under construction in progress...)
