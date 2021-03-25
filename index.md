@@ -21,7 +21,7 @@
 <p>Our cohort....</p>
 <br>
 
-#### Hackathon Project - PowerBI (....under construction in progress...)
+#### Hackathon Project - PowerBI (....under construction in progress.....)
 <p><img src="images/housing_loan_repayment_case_study_1.pdf?raw=true"/></p>
 <p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
 <p>Our cohort....</p>
