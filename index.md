@@ -14,7 +14,7 @@
 
 <p><em>SQL is an incredibly important and valuable skill that i have learned. Today Business is Digital, and Digital means data; data means databases, and to access those databases, I need SQL skillset. As an Data Analyst, using data to make informed decisions will be of part our job description, keeping up with the trend and continue learning how to use SQL to analyze data is the quickest way to level up my career going forward.
 <br>
-<p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
+<em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
 <br>
 
 #### Capstone 3 - PowerBI (....under construction in progress...)
