@@ -41,5 +41,5 @@
 <p style="font-size:10px">Technologies and Applications used : Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint</P>
 <P style="font-size:10px">Data Source : <a href= "https://www.kaggle.com/adityadesai13/used-car-dataset-ford-and-mercedes" target="_blank"> Kaggle</a></p>
 <br> 
-<p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
