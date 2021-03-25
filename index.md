@@ -15,8 +15,8 @@
 <p><em>SQL is an incredibly important and valuable skill that i have learned. Today Business is Digital, and Digital means data; data means databases, and to access those databases, I need SQL skillset. As an Data Analyst, using data to make informed decisions will be of part our job description, keeping up with the trend and continue learning how to use SQL to analyze data is the quickest way to level up my career going forward.</em></p>
 
 <p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
-<br>
-<em><p style="font-size:10px">Technologies and Applications used: MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint</em></p>
+
+<p style="font-size:10px"><em>Technologies and Applications used: MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint</em></p>
 
 #### Capstone 3 - PowerBI (....under construction in progress...)
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
