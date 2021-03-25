@@ -29,7 +29,7 @@
 <p>The Capstone Project enable me to apply and integrate what I have learnt and giving me an opportunity to delve in greater depth, into one or more of the topics covered in the ‘Analysing and Visualizing Data with PowerBI’ course. The capstone project was completed within 10 days.</p>
 
 <p style="font-size:10px"><em>Technologies and Applications used : PowerBI Desktop</em><br>
-<p style="font-size:10px"><em>Data source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
+<em>Data source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
 </p>
 <br>
 
