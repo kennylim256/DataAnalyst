@@ -18,7 +18,7 @@
 
 <p style="font-size:10px"><em>Technologies and Applications used: MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint</em></p>
 <br>
-#### Capstone 3 - PowerBI (....under construction in progress...)
+#### Capstone 3 - Analysing and Visualizing Data with PowerBI
 <p><img src="images/cp3_powerbi1.JPG?raw=true"/></p>
 <p style="font-size:8px"><a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">view full report</a></p>
 <p>Our cohort....</p>
