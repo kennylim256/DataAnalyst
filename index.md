@@ -28,8 +28,9 @@
 <p style="font-size:8px"><a href="pdf/retailcasestudy_powerbi.pdf" target="_blank">view full report</a></p>
 <p>The Capstone Project enable me to apply and integrate what I have learnt and giving me an opportunity to delve in greater depth, into one or more of the topics covered in the ‘Analysing and Visualizing Data with PowerBI’ course. The capstone project was completed within 10 days.</p>
 
-<p style="font-size:10px"><em>Technologies and Applications used : PowerBI Desktop</em></p>
-<p style="font-size:10px"><em>Data source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em></p>
+<p style="font-size:10px"><em>Technologies and Applications used : PowerBI Desktop</em><br>
+<p style="font-size:10px"><em>Data source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
+</p>
 <br>
 
 #### Hackathon Project - PowerBI (....under construction in progress.....)
@@ -48,7 +49,7 @@
 
 <br>
 <p style="font-size:10px"><em>Technologies and Applications used : Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint 365</em><br>
-<em><P style="font-size:10px"><em>Data Source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
+<P style="font-size:10px"><em>Data Source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
  </p>
  
 <p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
