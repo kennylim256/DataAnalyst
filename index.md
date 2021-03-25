@@ -8,7 +8,7 @@
 <p style="font-size:9px"><em>Technologies and Applications used : MS Excel 365, Power Query</em><br>
 <em>Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em>
 </p>
-
+<br>
 #### Capstone 2 - Relational Database and MS Excel Dashboard (SQL and MS Excel)
 
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21353&amp;authkey=AJ8FxzW9ay2kVHY&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
@@ -18,7 +18,9 @@
 
 <p>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and was completed in 10 days.</p>
 
-<p style="font-size:9px"><em>Technologies and Applications used : MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint   |   Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p></em></p>
+<p style="font-size:9px"><em>Technologies and Applications used : MS Excel 2010, Power Query, MS SQL Server, MS SQL Server Management Studio 18, MS Powerpoint</em><br>
+<em>Data Source : <a href= "https://www.kaggle.com/" target="_blank"> Kaggle</a></em></p></em>
+</p>
 <br>
 
 #### Capstone 3 - PowerBI Interactive Dashboard
