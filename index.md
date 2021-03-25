@@ -7,12 +7,14 @@
 <p><em>In this capstone project, it build up my Excel knowledge to be more familiar with how Excel can be used for Data Analytics, it also helps me to exhibit the stages of the data lifecycle through the use of the tool: MS Excel.</em></p>
 <br>
 
-#### Capstone 2 - Relational Database and MS Excel Dashboard (MS SQL Server)
+#### Capstone 2 - Relational Database and MS Excel Dashboard (SQL)
 
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&amp;resid=3D36002E631A6785%21353&amp;authkey=AJ8FxzW9ay2kVHY&amp;em=2&amp;wdAr=1.7777777777777777" width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 <p style="font-size:8px"><a href="pdf/retail_case_study_r3.pdf" target="_blank">download PDF</a></p>
 
-<p><em>This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
+<p><em>SQL is an incredibly important and valuable skill that i have learned. Today Business is Digital, and Digital means data; data means databases, and to access those databases I need SQL skill. As an analyst, using data to make informed decisions is now part of the job description, keeping up with the trend and continue learning how to use SQL to analyze data is the quickest way to level up my career.
+
+This Capstone Project enable me to apply, integrate and delve in greater depth using Excel and MS SQL I have learned. It's an open project where we choose our own data, brainstorm ideas and create insightful dashboards as an end result and completed in 10 days.</em></p>
 <br>
 
 #### Capstone 3 - PowerBI (....under construction in progress...)
