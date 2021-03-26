@@ -62,7 +62,7 @@ Below are a few suggested perspectives:<br>
 <p>This Capstone Project enable me to apply and integrate what I have learnt, qiven me an opportunity to delve in greater depth, into one or more of the topics covered in the Machine Learning using Python courses.</p>
 
 <p>The capstone project has to be completed within 5 days.</p>
-<br>
+
 <p style="font-size:10px"><em>Technologies and Applications used : Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint 365</em><br>
 <em>Data Source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
  </p>
