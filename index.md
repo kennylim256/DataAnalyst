@@ -36,7 +36,7 @@
 ####  PowerBI Hackathon - A Goal of creating a functioning product by end of the Day!
 <img src="images/Hackathon_cover1.jpg?raw=true"/><br>
 <p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
-<p>At the hackathon, our team are tasked to produce an app for a financial institutions that helps them to maximise their profit on targeted customer and create a mortgage goals and plans for them.
+<p>At the hackathon, our team are tasked to produce an app for a financial institutions that helps them to MAXIMISE their profit on targeted customer and create a loan goals and plan for them.
 <br><br>
 Following are detail instructions of the case given to all Teams -
 Financial institutions/companies have been using analytics for quite a long time. Off late, due to the availability of computational resources and tremendous research in analytics field, it is possible to perform cutting edge data analysis resulting in making business strategies and improving decision making.
