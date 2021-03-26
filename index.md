@@ -57,7 +57,7 @@ Below are a few suggested perspectives:<br>
 <!-- <p style="font-size:8px"><a href="pdf/used_car_price_prediction.pdf" target="_blank">download PPT</a> -->
 <p style="font-size:8px"><a href="pdf/predict_audi_car_price_analysis_r1.pdf" target="_blank">view Python CODE</a></p>
 
-<p>Three core elements of data science are – Python, Analytics and Machine Learning. The goal of this course allows us to understand how Machine Learning can be leveraged in the context of a business and organization to add business value, perform predictive analytics, automate processes and derive business insights from the data more effectively.</p>
+<p>Three core elements of data science are – Python, Analytics and Machine Learning. The goal of this course allows me to understand how Machine Learning can be leveraged in the context of a business and organization to add business value, perform predictive analytics, automate processes and derive business insights from the data more effectively.</p>
 
 <p>This Capstone Project enable me to apply and integrate what I have learnt, qiven me an opportunity to delve in greater depth, into one or more of the topics covered in the Machine Learning using Python courses. The capstone project should be completed within 5 days.</p>
 <br>
