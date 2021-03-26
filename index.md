@@ -34,7 +34,7 @@
 <br>
 
 ####  PowerBI Hackathon - A Goal of creating a functioning product by end of the Day!
-<img src="images/hackathon_cover.jpg?raw=true"/><br>
+<img src="images/Hackathon_cover1.jpg?raw=true"/><br>
 <p style="font-size:8px"><a href="pdf/housing_loan_repayment_case_study.pdf" target="_blank">view full report</a></p>
 <p>At the hackathon, our team are tasked to produce an app for a financial institutions that helps them to maximise their profit on targeted customer and create a mortgage goals and plans for them.
 <br><br>
