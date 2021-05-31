@@ -69,3 +69,18 @@ Below are a few suggested perspectives:<br>
  
 <p style="font-size:8px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
+
+#### Finale - Summative Capstone Project
+
+<iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&resid=3D36002E631A6785%21391&authkey=AMcGlu7kHd8rU-E&em=2" 
+width="100%" height="280px" frameborder="0" scrolling="no"></iframe> width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+
+<p style="font-size:8px"><a href="pdf/Summative_Capston_Project Car Price Predictor for Audi_Kenny_Lim_ipynb" target="_blank">view Python CODE</a></p>
+
+<p>This project makes me to dig in greater depth on topics like SQL, Power BI & Python that were covered in the course and reveal the knowledge acquired onto it.</p>
+
+<p>The purpose generally is to make me think critically and have great analysis.</p>
+
+<p style="font-size:10px"><em>Technologies and Applications used : Jupyter Notebook, Anaconda, Numpy Python 3.9, MS Powerpoint 365, MS SQL Server Management Studio, Power BI</em><br>
+ 
+<em>Data Source : <a href= "https://www.kaggle.com/" target="_blank">Kaggle</a></em>
