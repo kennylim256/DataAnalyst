@@ -75,7 +75,7 @@ Below are a few suggested perspectives:<br>
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&resid=3D36002E631A6785%21391&authkey=AMcGlu7kHd8rU-E&em=2" 
 width="100%" height="280px" frameborder="0" scrolling="no">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
-<p style="font-size:8px"><a href="pdf/Summative_Capston_Project Car Price Predictor for Audi_Kenny_Lim_ipynb" target="_blank">view Python CODE</a></p>
+<p style="font-size:8px"><a href="pdf/Summative_Capston_Project Car Price Predictor for Audi_Kenny_Lim_ipynb.pdf" target="_blank">view Python CODE</a></p>
 
 <p>This project makes me to dig in greater depth on topics like SQL, Power BI & Python that were covered in the course and reveal the knowledge acquired onto it.</p>
 
