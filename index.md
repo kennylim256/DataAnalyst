@@ -73,7 +73,7 @@ Below are a few suggested perspectives:<br>
 #### Finale - Summative Capstone Project
 
 <iframe src="https://onedrive.live.com/embed?cid=3D36002E631A6785&resid=3D36002E631A6785%21391&authkey=AMcGlu7kHd8rU-E&em=2" 
-width="100%" height="280px" frameborder="0" scrolling="no"></iframe> width="100%" height="280px" frameborder="0">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
+width="100%" height="280px" frameborder="0" scrolling="no">This is an embedded <a target="_blank" href="https://office.com">Microsoft Office</a> presentation, powered by <a target="_blank" href="https://office.com/webapps">Office</a>.</iframe>
 
 <p style="font-size:8px"><a href="pdf/Summative_Capston_Project Car Price Predictor for Audi_Kenny_Lim_ipynb" target="_blank">view Python CODE</a></p>
 
